@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto+Slab&display=swap');
+
+/* font-family: 'Inter', sans-serif;
+font-family: 'Roboto Slab', serif; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #ffa10c 16.62%, #ff4360 85.61%)
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.cabecalho-imagem {
+    max-width:100px;
+    max-height:50px;
+    width: auto;
+    height: 72px;
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 42px;
+    font-family: 'Roboto Slab', serif;
+    color: whitesmoke;
+    font-weight: 400;
+}
+
+.conteudo{
+    border-top: 0.4px solid whitesmoke;
+}
+
+.conteudo-principal-escrito {
+    font-family: 'Inter', sans-serif;
+    color: whitesmoke;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px;
+}
