@@ -12,7 +12,7 @@ Sim. Aprendi demais! O vídeo da Rafa Ballerini eé muito bem detalhado e explic
 
 ### Rêferencias
 
-[Vídeo da Rafaella Ballerini]: (https://www.youtube.com/watch?v=llF6vD-RljE&t=2512s&ab_channel=RafaellaBallerini)
-[Sobre Landing Page]: https://resultadosdigitais.com.br/marketing/o-que-e-landing-page/
-[Imagem do BOT]: https://www.flaticon.com/premium-icon/bot_1533105?term=bot&page=1&position=2&page=1&position=2&related_id=1533105&origin=search#
+[Vídeo da Rafaella Ballerini] (https://www.youtube.com/watch?v=llF6vD-RljE&t=2512s&ab_channel=RafaellaBallerini)
+[Sobre Landing Page] (https://resultadosdigitais.com.br/marketing/o-que-e-landing-page/)
+[Imagem do BOT] (https://www.flaticon.com/premium-icon/bot_1533105?term=bot&page=1&position=2&page=1&position=2&related_id=1533105&origin=search#)
 
