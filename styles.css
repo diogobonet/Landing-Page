@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto+Slab&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mukta&display=swap');
 /* font-family: 'Inter', sans-serif;
 font-family: 'Roboto Slab', serif; */
-
+/* font-family: 'Mukta', sans-serif; */
 * {
     margin: 0;
     padding: 0;
@@ -43,6 +43,9 @@ body {
 }
 
 .conteudo-principal-escrito {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
     font-family: 'Inter', sans-serif;
     color: whitesmoke;
 }
@@ -53,4 +56,57 @@ body {
     align-items: center;
     justify-content: space-around;
     padding: 100px;
+}
+
+.conteudo-principal-escrito-title{
+    font-family: 'Mukta', sans-serif;
+    font-size: 54px;
+}
+
+.conteudo-principal-escrito-sub {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.conteudo-principal-escrito-botao {
+    background-color: #ff6600;
+    width: 160px;
+    height: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px orange;
+    border-radius: 20px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.conteudo-secundario{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.conteudo-secundario-sub {
+    /* Tracinho em cima do o que fazemos por você. */
+    border-top: 0.4px solid #ffa10c;
+    padding-top: 48px;
+    font-family: 'Mukta', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: whitesmoke;
+    margin-bottom: 16px;
+}
+
+.conteudo-secundario-text {
+    font-family: 'Mukta', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: whitesmoke;
+}
+
+.conteudo-principal-escrito-botao:hover {
+    background-color: #c24e00;
 }
